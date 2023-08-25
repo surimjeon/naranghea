@@ -29,10 +29,14 @@
 
 2. 게시판
 - 자유/함께/신고 게시판
+<img src="https://github.com/surimjeon/naranghea/assets/122578934/aa6b0600-d422-4403-af65-c3e90c4300ff" width=200 height=500/>
 
   - 자유: 자유롭게 사용자 간 소통할 수 있는 게시판
+<img src="https://github.com/surimjeon/naranghea/assets/122578934/59ab0a75-d5c5-4728-bf44-985b79bd3d59" width=200 height=500/>
+
   - 함께: 캠페인에 함께 참여하고 싶은 사용자를 모집하는 게시판
      * 카카오톡 오픈채팅방 링크나 같이 참여하고 싶은 캠페인 링크 첨부 및 모집상태 변경 가능
+
   - 신고: 민원게시판 성격의 관리자에게 쓰레기가 많이 있는 위치를 신고할 수 있는 게시판
      * 지도핀으로 사용자가 쓰레기 많은 위치를 지정할 수 있음
   
