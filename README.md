@@ -70,6 +70,9 @@
 ### 스킬
 <img src="https://github.com/surimjeon/Algorithm-practice/assets/122578934/fb125012-e60b-42a2-9fb3-7bdc185edd38" width=500 height=300/>
 
+### ERD
+<img src="https://github.com/surimjeon/naranghea/assets/122578934/878397a5-38ab-419d-bdba-2f4350ab4e90"  width=700 height=500/>
+
 
 # ⚒ 모바일 아키텍처
 ### 아키텍처
